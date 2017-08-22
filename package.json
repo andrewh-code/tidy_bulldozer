@@ -1,0 +1,30 @@
+{
+  "name": "tidy_bulldozer",
+  "version": "1.0.0",
+  "description": "authentication for mean stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "bcryptjs": "*",
+    "cors": "*",
+    "jsonwebtoken": "*",
+    "body-parser": "*",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewh-code/tidy_bulldozer.git"
+  },
+  "author": "andrewh-code",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewh-code/tidy_bulldozer/issues"
+  },
+  "homepage": "https://github.com/andrewh-code/tidy_bulldozer#readme"
+}
